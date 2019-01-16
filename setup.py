@@ -67,7 +67,7 @@ install_requires = [
     'invenio-access>=1.0.0b1',
     'invenio-db>=1.0.0b8',
     'invenio-files-rest>=1.0.0a19',
-    'invenio-oauth2server>=1.0.0b1',
+    'invenio-oauth2server>=1.0.3',
     'invenio-rest[cors]>=1.0.0b1',
     'invenio-sipstore>=1.0.0a7'
 ]
