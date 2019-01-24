@@ -63,12 +63,12 @@ install_requires = [
     'Flask-BabelEx>=0.9.3',
     'Flask-CeleryExt>=0.3.0',
     'alembic>=0.9.3',
-    'invenio-admin>=1.0.0b4',
-    'invenio-access>=1.0.0b1',
-    'invenio-db>=1.0.0b8',
-    'invenio-files-rest>=1.0.0a19',
+    'invenio-admin>=1.0.0',
+    'invenio-access>=1.0.1',
+    'invenio-db>=1.0.0',
+    'invenio-files-rest>=1.0.0a23',
     'invenio-oauth2server>=1.0.3',
-    'invenio-rest[cors]>=1.0.0b1',
+    'invenio-rest[cors]>=1.0.0',
     'invenio-sipstore>=1.0.0a7'
 ]
 
