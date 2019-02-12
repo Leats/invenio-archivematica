@@ -228,8 +228,8 @@ If this doesn’t work, you can update Invenio yourself with the following
 API.
 
 Eventually you can run the automation-tools via cron to fully automate 
-the process. How often to call the script can depend on service. Choose
-the timescale that works for your service.
+the process. How often you wish call the script can depend on your service.
+Choose the timescale that works for your service.
 
 Invenio-Archivematica API
 -------------------------
