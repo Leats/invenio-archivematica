@@ -21,6 +21,11 @@
     waive the privileges and immunities granted to it by virtue of its status
     as an Intergovernmental Organization or submit itself to any jurisdiction.
 
+Prerequisites
+-------------
+The following will assume that you have Invenio, Invenio-Archivematica, Archivematica 
+and the automation-tools installed.
+
 
 Concepts
 --------
@@ -236,6 +241,10 @@ process is finished and the files are correctly archived.
 
 If this doesn’t work, you can update Invenio yourself with the following
 API.
+
+Eventually you can run the automation-tools via cron to fully automate 
+the process. How often to call the script can depend on service. Choose
+the timescale that works for your service.
 
 Invenio-Archivematica API
 -------------------------
